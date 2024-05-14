@@ -12,7 +12,7 @@ from openai import OpenAI
 
 
 #klucz udostępniający dostęp do openai
-OPENAI_API_KEY = "sk-proj-cxWILbZUlzaNbSCWCXHJT3BlbkFJ24QzEiJuyveSiSWBTTy4"
+OPENAI_API_KEY = "TUTAJ KLUCZ API"
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 #pobieranie artykułów z podanego linka
